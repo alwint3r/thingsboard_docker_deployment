@@ -1,0 +1,3 @@
+!volumes/.gitkeep
+volumes/thingsboard_data
+volumes/thingsboard_logs
